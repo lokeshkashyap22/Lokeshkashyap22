@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lokesh Kashyap🙂</h1>
-<h3 align="center">A passionate Full Stack Software developer from India</h3>
+<h3 align="center">A passionate Full Stack Software Developer from New Delhi, India</h3>
+ 
+- 📝 I’m currently pursuing **BSc Computer Science at BITS Pilani.**
 
-- 🔭 I’m currently pursuing **BSc Computer Science at BITS Pilani.**
-
-- 🌱 I’m currently learning **DSA with JAVA and Full Stack Software Development.**
+- 💻 I’m currently learning **DSA with JAVA and Full Stack Software Development.**
   
 - 📫 How to reach me **lokeshkashyapwork@gmail.com**
 
@@ -20,14 +20,14 @@
 <img src="https://skillicons.dev/icons?i=java,cpp,js,ts" />
 <h4 align="left">Front-End</h4>
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react, nextjs" />
 <h4 align="left">Back-End</h4>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,postgres,docker,kubernetes" />
 
 <h4 align="left">Tools</h4>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,bash, postman" />
 
 
 
