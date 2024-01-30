@@ -1,6 +1,19 @@
-<h1 align="center">Hi 👋, I'm Lokesh Kashyap👨🏻‍💻</h1>
-### Hi there 🙋🏻‍♂️
+<h1 align="center">Hi 👋, I'm Lokesh Kashyap🙂</h1>
+<h3 align="center">A passionate Full Stack Software developer from India</h3>
 
+- 🔭 I’m currently pursuing **BSc Computer Science at BITS Pilani.**
+
+- 🌱 I’m currently learning **DSA with JAVA and Full Stack Software Development.**
+  
+- 📫 How to reach me **lokeshkashyapwork@gmail.com**
+
+- ⚡ Fun fact **I'm convinced I can craft technological symphonies with my skills in Full Stack Software Development.**
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="linkedin.com/in/kashyap-lokesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudesha t r" height="30" width="40" /></a>
+</p>
 <!--
 **lokeshkashyap22/Lokeshkashyap22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
