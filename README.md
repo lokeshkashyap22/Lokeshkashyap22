@@ -12,8 +12,26 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kashyap-lokesh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lokesh Kashyap's LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kashyap-lokesh" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lokesh Kashyap's LinkedIn" height="30" width="40" /></a>
 </p>
+<h3 align="left">Skills Section:</h3>
+<h4 align="left">Programming Languages</h4>
+
+<img src="https://skillicons.dev/icons?i=java,cpp,js,ts" />
+<h4 align="left">Front-End</h4>
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+<h4 align="left">Back-End</h4>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongo,postgres,docker,kubernetes" />
+
+<h4 align="left">Tools</h4>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+
+
+
 <!--
 **lokeshkashyap22/Lokeshkashyap22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
