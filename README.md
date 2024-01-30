@@ -29,7 +29,6 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,bash, postman" />
 
-<img src="https://skillicons.dev/icons?i=linkedin,gmail,twitter, discord" />
 
 
 
