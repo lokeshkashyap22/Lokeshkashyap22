@@ -29,6 +29,36 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,bash, postman" />
 
+<hr>
+<h3>⚡ Languages, Tools and Technologies</h3></summary>
+<table>
+<tr>
+	<td><strong>Frontend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,react,redux,tailwind,vite,nextjs" ></td>
+</tr>
+<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=java,c,cpp,js,ts&theme=dark"></td>
+</tr>
+
+<tr>
+	<td><strong>Backend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,express,graphql,postman&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Database Technologies</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>DevOps</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=kubernetes,docker&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Version Control</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github&theme=dark"></td>
+</tr>
+</table>
+<hr>
 
 
 
