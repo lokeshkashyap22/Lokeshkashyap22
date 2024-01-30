@@ -20,7 +20,7 @@
 <img src="https://skillicons.dev/icons?i=java,cpp,js,ts" />
 <h4 align="left">Front-End</h4>
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react, nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
 <h4 align="left">Back-End</h4>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,postgres,docker,kubernetes" />
@@ -28,6 +28,8 @@
 <h4 align="left">Tools</h4>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,bash, postman" />
+
+<img src="https://skillicons.dev/icons?i=linkedin,gmail,twitter, discord" />
 
 
 
