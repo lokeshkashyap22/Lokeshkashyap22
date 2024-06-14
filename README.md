@@ -42,7 +42,7 @@
 
 <tr>
 	<td><strong>Tools</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,vscode,bash&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,vscode,bash,ubuntu,linux&theme=dark"></td>
 </tr>
 </table>
 <hr>
