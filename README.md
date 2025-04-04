@@ -1,6 +1,6 @@
 <!--If you like this, please star this GitHub repo to show your support.-->
 <h1 align="center">Hi 👋, I'm Lokesh Kashyap🙂</h1>
-<h3 align="center">A passionate Full Stack Software Developer from New Delhi, India</h3>
+<h3 align="center">Experienced Full Stack Software Developer from New Delhi, India</h3>
  
 - 📝 I’m currently pursuing **BSc Computer Science at BITS Pilani.**
 
@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me🚀</h3>
 
 <a href = "https://linkedin.com/in/lokeshkashyap22"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height = 40 ></a>
-<a href = "https://twitter.com/lokeshkashyap22"><img src = "https://skillicons.dev/icons?i=twitter&theme=dark" height = 40></a>
 <a href="mailto:lokeshkashyapwork@gmail.com"><img src = "https://skillicons.dev/icons?i=gmail&theme=dark" height = 40 ></a>
 
 
@@ -24,25 +23,25 @@
 <table>
 <tr>
 	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,react,tailwind,vite,nextjs" ></td>
-</tr>
-<tr>
-	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=java,cpp,js,ts&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,react,tailwind,vite,nextjs,js" ></td>
 </tr>
 
 <tr>
 	<td><strong>Backend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,express,graphql,postman,docker,kubernetes &theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,express,graphql,ts,nestjs &theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>DevOps</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,grafana,prometheus,terraform,nginx&theme=dark"></td>
 </tr>
 
 <tr>
 	<td><strong>Tools</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,vscode,bash,ubuntu,linux&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,vscode,bash,ubuntu,linux,postman&theme=dark"></td>
 </tr>
 </table>
 <hr>
